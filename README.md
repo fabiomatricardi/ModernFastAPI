@@ -1,4 +1,4 @@
-<img src="https://github.com/fabiomatricardi/ModernFastAPI/raw/main/NtworkGPTbanner.jpg" height=200><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*pS7o_15V-Zndw8S9ysqixw.png" height=200><img src="https://github.com/fabiomatricardi/ModernFastAPI/raw/main/networkGPT3.png" height=200>
+<img src="https://github.com/fabiomatricardi/ModernFastAPI/raw/main/NtworkGPTbanner.jpg" height=150><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*pS7o_15V-Zndw8S9ysqixw.png" height=150><img src="https://github.com/fabiomatricardi/ModernFastAPI/raw/main/networkGPT3.png" height=150>
 
 
 
