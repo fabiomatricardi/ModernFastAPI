@@ -1,4 +1,6 @@
-<img src="https://github.com/fabiomatricardi/ModernFastAPI/raw/main/NtworkGPTbanner.jpg" height=220><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*pS7o_15V-Zndw8S9ysqixw.png" height=220>
+<img src="https://github.com/fabiomatricardi/ModernFastAPI/raw/main/NtworkGPTbanner.jpg" height=200><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*pS7o_15V-Zndw8S9ysqixw.png" height=200><img src="https://github.com/fabiomatricardi/ModernFastAPI/raw/main/networkGPT3.png" height=200>
+
+
 
 # ModernFastAPI
 Repo of the code from the Medium article - Build a powerful LLM API right on your computer
@@ -19,4 +21,4 @@ This Project has 3 parts:
 This is the python file for the textual interface as described in the part 3 article
 
 The result will be as shown below (terminal server llama-cpp-python on the left, chat interface on the right):
-<img src="https://github.com/fabiomatricardi/ModernFastAPI/blob/main/fastOpenAI-API1.gif" width=1000>
+<img src="https://github.com/fabiomatricardi/ModernFastAPI/raw/main/fastOpenAI-API1.gif" width=1000>
