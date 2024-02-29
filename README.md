@@ -13,4 +13,10 @@ This Project has 3 parts:
 
 - [Create your LLM API: your ChatBOT as a service — part 1](https://medium.com/generative-ai/create-your-llm-api-your-chatbot-as-a-service-part-1-4d4213182a1a)
 - [Create your LLM API: your ChatBOT as a service — part 2](https://generativeai.pub/create-your-llm-api-your-chatbot-as-a-service-part-2-b21eb6efea72)
-- [Part 3 - ongoing](#)
+- [Part 3 - almost published](#)
+
+### Part 3 file
+This is the python file for the textual interface as described in the part 3 article
+
+The result will be as shown below (terminal server llama-cpp-python on the left, chat interface on the right):
+<img src="https://github.com/fabiomatricardi/ModernFastAPI/blob/main/fastOpenAI-API1.gif" width=1000>
