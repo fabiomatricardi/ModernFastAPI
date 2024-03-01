@@ -15,7 +15,7 @@ This Project has 3 parts:
 
 - [Create your LLM API: your ChatBOT as a service — part 1](https://medium.com/generative-ai/create-your-llm-api-your-chatbot-as-a-service-part-1-4d4213182a1a)
 - [Create your LLM API: your ChatBOT as a service — part 2](https://generativeai.pub/create-your-llm-api-your-chatbot-as-a-service-part-2-b21eb6efea72)
-- [Part 3 - almost published](#)
+- [Create your LLM API: ChatBOT as a service — part 3](https://generativeai.pub/create-your-llm-api-chatbot-as-a-service-part-3-ca336d56f0d3)
 
 ### Part 3 file
 This is the python file for the textual interface as described in the part 3 article
